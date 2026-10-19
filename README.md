@@ -17,3 +17,15 @@ Estrutura do commit: `<tipo>[escopo opcional]:<descrição>`
 ##### Mensagem de commit com escopo e ! para chamar a atenção para quebra a compatibilidade
 
 > feat!: envia email para o cliente quando o produto é enviado
+
+---
+
+### Comandos Git
+
+`Criar uma branch: git branch <nome-branch>` 
+
+`Criar uma branch e trocar para ela: git switch -c <nome-branch>`
+
+`Verificar branch atual: git branch`
+
+
